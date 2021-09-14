@@ -1,3 +1,15 @@
+# Full Project with React and function components
+I made this project from a tutorial to practice function components and hooks.
+APIs used :
+* google map API
+* openWeather API 
+* travel-advisor API
+
+Techno and libraries:
+* React
+* MaterialUI
+* Axios
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
